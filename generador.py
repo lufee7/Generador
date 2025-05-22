@@ -27,3 +27,14 @@ contraseña_generada = generar_contraseña(nivel)
 
 if contraseña_generada:
     print("Aquí tiene tu contraseña segura:", contraseña_generada)
+
+
+'''
+string.ascii_lowercase: Letras minúsculas (a-z).
+
+string.ascii_letters: Letras minúsculas y mayúsculas (a-z + A-Z).
+
+string.digits: Números del 0 al 9.
+
+string.punctuation: Símbolos especiales (!, @, #, etc.). 
+'''
